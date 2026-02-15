@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **coding,web development,problem solving**
 
-- 📫 How to reach me **1111dhruvsoni@gmail.com**
+- 📫 How to reach me **shiviiisonii@gmail.com**
 
 - ⚡ Fun fact **I am self motivated😁**
 
