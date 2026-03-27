@@ -1,17 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Shivi Soni</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A passionate software engineer from India</h3>
 <img align="right" alt="coding" width="400px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMlkX96YAPP7Z1TLQ-zc9P4KvPuvCxAq-x7A&usqp=CAU">
 
-- 🌱 I’m currently learning **Next JS, React JS**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shivi-soni/](https://www.linkedin.com/in/shivi-soni/)
-
-- 💬 Ask me about **coding,web development,problem solving**
+- 💬 Ask me about **coding, web development, problem solving*, ai integration etc*
 
 - 📫 How to reach me **shiviiisonii@gmail.com**
-
-- ⚡ Fun fact **I am self motivated😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
